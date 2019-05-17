@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HotPotato</string>
+    <string name="app_image">App image</string>
+    <string name="home_text">HotPotato will give you nice and tasty recipes
+    of how to cook potatoes!</string>
+    <string name="create_recipe">Create Recipe</string>
+    <string name="create_recipe_title">Create recipe</string>
+    <string name="action_share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_home">Home fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="potato">
+        <item>Potato 1</item>
+        <item>Potato 2</item>
+    </string-array>
+
+    //Tab menu
+    <string name="home_tab">Home</string>
+    <string name="search_tab">Search</string>
+    <string name="recipe_tab">Recipes</string>
+</resources>
